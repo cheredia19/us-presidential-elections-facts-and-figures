@@ -38,3 +38,21 @@ description:
 ## Electoral votes by party (1856-2020)
 
 <FlatUiTable data={{ url: 'ev_dem_rep.csv' }} />
+
+<PlotlyLineChart
+  data={{
+    url: 'ev_dem_rep.csv'
+  }}
+  title="Evolution of the Democratic Party's electoral votes since 1856"
+  xAxis="year"
+  yAxis="democratic"
+/>
+
+<PlotlyLineChart
+  data={{
+    url: 'ev_dem_rep.csv'
+  }}
+  title="Evolution of the Republican Party's electoral votes since 1856"
+  xAxis="year"
+  yAxis="republican"
+/>
