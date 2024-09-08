@@ -9,7 +9,7 @@ The current GOP candidate would be **the second head of state in history with tw
 
 Cleveland was 47 when he took office for the first time. 
 
-Only six men became president of the United States at a younger age. Theodore Roosevelt was 42 years old when he had to assume office due to the assassination of William McKinley in 1901. This made him the youngest chief of state in the country's history.
+Only six men became president of the United States at a younger age. Theodore Roosevelt was 42 years old when he had to assume office due to the assassination of William McKinley in 1901. It made him the youngest chief of state in the country's history.
 
 <PlotlyBarChart
   data={{
@@ -32,11 +32,14 @@ Only six men became president of the United States at a younger age. Theodore Ro
 
 Biden was 77 when [he was declared the winner of the 2020 election](https://apnews.com/article/joe-biden-wins-white-house-ap-fd58df73aa677acb74fce2a69adb71f9). Thirteen days later, the incumbent turned 78.
 
-
 ## Popular votes by party and winners (1856-2020)
 
+The former vice president is the only candidate to surpass the 80 million popular-vote barrier (81,283,501) in a presidential election. It's fair to say that he and Trump are the only ones to have surpassed 70 million votes (74,223,975), both in the 2020 race.
+
+Since the first Republican nominating convention in 1856, in which ex-senator John Charles Frémont got the nomination, 24 GOP candidates were elected the United States president. The first one was Abraham Lincoln in 1860.
+
 <FlatUiTable data={{ url: 'votes_dem_rep.csv' }} />
-**NOTE: The 2016 elections are, along with those of 1824, 1876, 1888 and 2000 the only ones in which the winning candidate lost the popular vote.*
+###### *NOTE: The 2016 elections are, along with those of 1824, 1876, 1888 and 2000 the only ones in which the winning candidate lost the popular vote.*
 
 <PlotlyLineChart
   data={{
