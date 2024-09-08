@@ -3,6 +3,14 @@ title: Facts and figures of  the US presidential elections
 description: 
 ---
 
+If Donald Trump becomes the new president of the United States next November, he will overtake incumbent Joe Biden as **the oldest US-elected president ever**.
+
+The current GOP candidate would be **the second head of state in history with two non-consecutive periods**. The first one was Grover Cleveland (1885-1889) and (1893-1897).
+
+Cleveland was 47 when he took office for the first time. 
+
+Only six men became president of the United States at a younger age. Theodore Roosevelt was 42 years old when he had to assume office due to the assassination of William McKinley in 1901. This made him the youngest chief of state in the country's history.
+
 <PlotlyBarChart
   data={{
     url: 'age_elected_pres.csv'
