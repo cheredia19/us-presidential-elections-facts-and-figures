@@ -35,7 +35,7 @@ Biden was 77 when [he was declared the winner of the 2020 election](https://apne
 
 The former vice president is the only candidate to surpass the 80 million popular-vote barrier (81,283,501) in a presidential election. It's fair to say that he and Trump (74,223,975) are the only ones to have surpassed 70 million votes, both in the 2020 race.
 
-Since the first Republican nominating convention in 1856, in which ex-senator John Charles Frémont got the nomination, Democrats and Republicans have been pitted against each other every four years, taking center stage in every election.
+Since the first Republican nominating convention in 1856, in which ex-senator **John Charles Frémont** got the nomination, Democrats and Republicans have been pitted against each other every four years, taking center stage in every election.
 
 The following two line charts show the popular vote performance of Democratic and Republican candidates from that year to the last election in 2020.
 
@@ -63,7 +63,7 @@ From James Buchanan (1856) to Joseph R. Biden, eighteen Democratic candidates ha
 
 The Democrats won five consecutive times beginning in 1932. **Franklin D. Roosevelt** started the streak. He also triumphed in '36, '40 and '44. 
 
-Roosevelt is the only president in history to occupy the presidential spot for over two consecutive terms. However, he did not finish the last of his terms, as he died on April 12, 1945, days before the end of World War II. **Harry S. Truman took office immediately. Three years and a half later, he defeated Thomas Dewey and States' Rights candidate **Strom Thurmond** in the election of 1948.
+Roosevelt is the only president in history to occupy the presidential spot for over two consecutive terms. However, he did not finish the last of his terms, as he died on April 12, 1945, days before the end of World War II. **Harry S. Truman** took office immediately. Three years and a half later, he defeated **Thomas E. Dewey** and States' Rights candidate **Strom Thurmond** in the election of 1948.
 
 <FlatUiTable data={{ url: 'votes_dem_rep.csv' }} />
 ###### *NOTE: The 2016 elections are, along with those of 1824, 1876, 1888 and 2000 the only ones in which the winning candidate lost the popular vote.*
