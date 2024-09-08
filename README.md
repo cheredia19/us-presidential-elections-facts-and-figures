@@ -57,9 +57,9 @@ The following two line charts show the popular vote performance of Democratic an
   yAxis="republican"
 />
 
-Twenty-four GOP candidates have been elected as the United States president. The first one was **Abraham Lincoln** in 1860. Since then, the Republicans achieved **six consecutive times** the U.S. presidency until Democratic aspirant **Grover Cleveland** defeated former Secretary of State James G. Blaine in the 1884 election.
+Twenty-four GOP candidates have been elected as the United States president. The first one was **Abraham Lincoln** in 1860. Since then, the Republicans achieved **six consecutive times** the U.S. presidency until Democratic aspirant **Grover Cleveland** defeated former Secretary of State **James G. Blaine** in the 1884 election.
 
-From James Buchanan (1856) to Joseph R. Biden, eighteen Democratic candidates have been elected as U.S. president.
+From **James Buchanan** (1856) to Joseph R. Biden, eighteen Democratic candidates have been elected as U.S. president.
 
 The Democrats won five consecutive times beginning in 1932. **Franklin D. Roosevelt** started the streak. He also triumphed in '36, '40 and '44. 
 
