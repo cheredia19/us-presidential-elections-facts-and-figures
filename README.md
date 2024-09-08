@@ -1,9 +1,9 @@
 ---
-title: C02 PPM per decade
-description: C02 PPM per decade
+title: Facts and figures of  the US presidential elections
+description: 
 ---
 
-<LineChart
+<PlotlyBarChart
   data={{
     url: 'age_elected.csv'
   }}
