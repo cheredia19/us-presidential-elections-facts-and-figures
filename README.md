@@ -16,6 +16,7 @@ description:
 ## Popular votes by party and winners (1856-2020)
 
 <FlatUiTable data={{ url: 'votes_dem_rep.csv' }} />
+**NOTE: The 2016 elections are, along with those of 1824, 1876, 1888 and 2000 the only ones in which the winning candidate lost the popular vote.*
 
 <PlotlyLineChart
   data={{
