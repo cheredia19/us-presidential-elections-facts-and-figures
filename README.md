@@ -16,3 +16,12 @@ description:
 ## Popular votes by party and winners (1856-2020)
 
 <FlatUiTable data={{ url: 'votes_dem_rep.csv' }} />
+
+<PlotlyLineChart
+  data={{
+    url: 'votes_dem_rep.csv'
+  }}
+  title="Evolution of the Democratic Party's popular votes since 1856"
+  xAxis="year"
+  yAxis="democratic"
+/>
