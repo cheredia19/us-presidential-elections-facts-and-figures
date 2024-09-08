@@ -25,3 +25,12 @@ description:
   xAxis="year"
   yAxis="democratic"
 />
+
+<PlotlyLineChart
+  data={{
+    url: 'votes_dem_rep.csv'
+  }}
+  title="Evolution of the Republican Party's popular votes since 1856"
+  xAxis="year"
+  yAxis="republican"
+/>
