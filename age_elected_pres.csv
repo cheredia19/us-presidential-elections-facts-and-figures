@@ -13,12 +13,12 @@ age,president_year
 62,Dwight E. Eisenhower (1952)
 62,Franklin D. Roosevelt (1944)
 62,James Monroe (1820)
-61,Gerald Ford (1974)*
+61,Gerald Ford (1974)(i)
 61,Andrew Jackson (1828)
 61,James Madison (1812)
 61,Thomas Jefferson (1800)
 61,John Adams (1796)
-60,Harry S. Truman (1945)*
+60,Harry S. Truman (1945)(g)
 60,George Washington (1792)
 59,Richard Nixon (1972)
 59,Woodrow Wilson (1916)
@@ -30,14 +30,14 @@ age,president_year
 57,James Madison (1808)
 57,George Washington (1789)
 56,Lyndon B. Johnson (1964)
-56,Andrew Johnson (1965)*
-55,Lyndon B. Johnson (1963)*
+56,Andrew Johnson (1865)(c)
+55,Lyndon B. Johnson (1963)(h)
 55,Richard Nixon (1968)
 55,Woodrow Wilson (1912)
 55,Warren G. Harding (1920)
 55,Grover Cleveland (1892)
 55,Benjamin Harrison (1888)
-55,Abraham Lincoln (1964)
+55,Abraham Lincoln (1864)
 54,George W. Bush (2000)
 54,Herbert Hoover (1928)
 54,Franklin D. Roosevelt (1936)
@@ -48,14 +48,14 @@ age,president_year
 52,Calvin Coolidge (1924)
 51,Barack Obama (2012)
 51,William Howard Taft (1908)
-51,Calvin Coolidge (1923)*
-51,Chester A. Arthur (1881)*
+51,Calvin Coolidge (1923)(f)
+51,Chester A. Arthur (1881)(d)
 51,Abraham Lincoln (1960)
-51,John Tyler (1841)*
+51,John Tyler (1841)(a)
 50,Bill Clinton (1996)
 50,Franklin D. Roosevelt (1932)
 50,Rutherford B. Hayes (1872)
-50,Millard Fillmore (1850)*
+50,Millard Fillmore (1850)(b)
 48,James A. Garfield (1880)
 48,James K. Polk (1844)
 47,Barack Obama (2008)
@@ -65,4 +65,4 @@ age,president_year
 46,Theodore Roosevelt (1904)
 46,Ulysses S. Grant (1868)
 43,John F. Kennedy (1960)
-43,Theodore Roosevelt (1901)*
+42,Theodore Roosevelt (1901)(e)
