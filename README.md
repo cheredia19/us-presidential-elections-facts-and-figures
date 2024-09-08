@@ -19,8 +19,8 @@ Only six men became president of the United States at a younger age. Theodore Ro
   xAxis="president_year"
   yAxis="age"
 />
-######*(a) John Tyler (51) assumed the presidency on April 4, 1841 due to the death of WIlliam Henry Harrison, thirty-two days after Harrison began his term in office.*
-######*(b) Millard Fillmore (50) assumed the presidency on July 9, 1850 due to the death of Zachary Taylor, who passed away of natural causes after just over a year in office.*
+###### *(a) John Tyler (51) assumed the presidency on April 4, 1841 due to the death of WIlliam Henry Harrison, thirty-two days after Harrison began his term in office.*
+###### *(b) Millard Fillmore (50) assumed the presidency on July 9, 1850 due to the death of Zachary Taylor, who passed away of natural causes after just over a year in office.*
 
 Biden was 77 when [he was declared the winner of the 2020 election](https://apnews.com/article/joe-biden-wins-white-house-ap-fd58df73aa677acb74fce2a69adb71f9). Thirteen days later, the incumbent turned 78.
 
