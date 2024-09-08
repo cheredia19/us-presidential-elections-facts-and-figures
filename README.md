@@ -34,9 +34,11 @@ Biden was 77 when [he was declared the winner of the 2020 election](https://apne
 
 ## Popular votes by party and winners (1856-2020)
 
-The former vice president is the only candidate to surpass the 80 million popular-vote barrier (81,283,501) in a presidential election. It's fair to say that he and Trump are the only ones to have surpassed 70 million votes (74,223,975), both in the 2020 race.
+The former vice president is the only candidate to surpass the 80 million popular-vote barrier (81,283,501) in a presidential election. It's fair to say that he and Trump (74,223,975) are the only ones to have surpassed 70 million votes, both in the 2020 race.
 
 Since the first Republican nominating convention in 1856, in which ex-senator John Charles Frémont got the nomination, 24 GOP candidates were elected the United States president. The first one was Abraham Lincoln in 1860.
+
+The Republicans achieved ***six consecutive times** the US presidency until Democratic aspirant Grover Cleveland defeated former Secretary of State James G. Blaine in the 1884 election.
 
 <FlatUiTable data={{ url: 'votes_dem_rep.csv' }} />
 ###### *NOTE: The 2016 elections are, along with those of 1824, 1876, 1888 and 2000 the only ones in which the winning candidate lost the popular vote.*
