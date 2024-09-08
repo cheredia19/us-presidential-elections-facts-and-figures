@@ -34,3 +34,7 @@ description:
   xAxis="year"
   yAxis="republican"
 />
+
+## Electoral votes by party (1856-2020)
+
+<FlatUiTable data={{ url: 'ev_dem_rep.csv' }} />
