@@ -15,8 +15,4 @@ description:
 
 ## Popular votes by party and winners (1856-2020)
 
-<FlatUITable
-  data={{
-    url: 'pop_votes_dem_rep.csv'
-  }}
-/>
+<FlatUiTable data={{ url: 'pop_votes_dem_rep.csv' }} />
