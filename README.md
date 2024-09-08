@@ -5,7 +5,7 @@ description:
 
 <PlotlyBarChart
   data={{
-    url: 'age_elected.csv'
+    url: 'age_elected_pres.csv'
   }}
   title="How old were the presidents at the time of their election?"
   xAxis="president_year"
