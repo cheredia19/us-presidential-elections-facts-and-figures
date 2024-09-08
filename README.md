@@ -59,7 +59,11 @@ The following two line charts show the popular vote performance of Democratic an
 
 Twenty-four GOP candidates have been elected as the United States president. The first one was **Abraham Lincoln** in 1860. Since then, the Republicans achieved **six consecutive times** the U.S. presidency until Democratic aspirant **Grover Cleveland** defeated former Secretary of State James G. Blaine in the 1884 election.
 
-The Democrats won the U.S. presidency five consecutive times beginning in 1932. **Franklin D. Roosevelt** won in '32, '36, '40 and '44. He is the only president in history to have held the office for two consecutive terms. However, he did not finish the last of his terms, as he died on April 12, 1945, days before the end of World War II.
+From James Buchanan (1856) to Joseph R. Biden, eighteen Democratic candidates have been elected as U.S. president.
+
+The Democrats won five consecutive times beginning in 1932. **Franklin D. Roosevelt** started the streak. He also triumphed in '36, '40 and '44. 
+
+Roosevelt is the only president in history to occupy the presidential spot for over two consecutive terms. However, he did not finish the last of his terms, as he died on April 12, 1945, days before the end of World War II. **Harry S. Truman took office immediately. Three years and a half later, he defeated Thomas Dewey and States' Rights candidate **Strom Thurmond** in the election of 1948.
 
 <FlatUiTable data={{ url: 'votes_dem_rep.csv' }} />
 ###### *NOTE: The 2016 elections are, along with those of 1824, 1876, 1888 and 2000 the only ones in which the winning candidate lost the popular vote.*
