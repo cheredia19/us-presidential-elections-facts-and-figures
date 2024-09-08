@@ -1,5 +1,5 @@
 ---
-title: Facts and figures of the US presidential elections
+title: Facts and figures of the U.S. presidential elections
 description: 
 ---
 
@@ -57,7 +57,9 @@ The following two line charts show the popular vote performance of Democratic an
   yAxis="republican"
 />
 
-Twenty-four GOP candidates have been elected as the United States president. The first one was **Abraham Lincoln** in 1860. Since then, the Republicans achieved ***six consecutive times** the US presidency until Democratic aspirant **Grover Cleveland** defeated former Secretary of State James G. Blaine in the 1884 election.
+Twenty-four GOP candidates have been elected as the United States president. The first one was **Abraham Lincoln** in 1860. Since then, the Republicans achieved **six consecutive times** the U.S. presidency until Democratic aspirant **Grover Cleveland** defeated former Secretary of State James G. Blaine in the 1884 election.
+
+The Democrats won the U.S. presidency five consecutive times beginning in 1932. **Franklin D. Roosevelt** won in '32, '36, '40 and '44. He is the only president in history to have held the office for two consecutive terms. However, he did not finish the last of his terms, as he died on April 12, 1945, days before the end of World War II.
 
 <FlatUiTable data={{ url: 'votes_dem_rep.csv' }} />
 ###### *NOTE: The 2016 elections are, along with those of 1824, 1876, 1888 and 2000 the only ones in which the winning candidate lost the popular vote.*
