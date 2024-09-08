@@ -37,7 +37,7 @@ The former vice president is the only candidate to surpass the 80 million popula
 
 Since the first Republican nominating convention in 1856, in which ex-senator **John Charles Frémont** got the nomination, Democrats and Republicans have been pitted against each other every four years, taking center stage in every election.
 
-The following two line charts show the popular vote performance of Democratic and Republican candidates from that year to the last election in 2020.
+The following two line charts show the popular vote performances of Democratic and Republican candidates from that year to the last election in 2020.
 
 <PlotlyLineChart
   data={{
@@ -57,13 +57,15 @@ The following two line charts show the popular vote performance of Democratic an
   yAxis="republican"
 />
 
-Twenty-four GOP candidates have been elected as the United States president. The first one was **Abraham Lincoln** in 1860. Since then, the Republicans achieved **six consecutive times** the U.S. presidency until Democratic aspirant **Grover Cleveland** defeated former Secretary of State **James G. Blaine** in the 1884 election.
+Twenty-four GOP candidates won the United States presidential election. The first one was **Abraham Lincoln** in 1860. Since then, the Republicans achieved **six consecutive** U.S. presidencies until Democratic aspirant **Grover Cleveland** defeated former Secretary of State **James G. Blaine** in the 1884 election.
 
-From **James Buchanan** (1856) to Joseph R. Biden, eighteen Democratic candidates have been elected as U.S. president.
+From **James Buchanan** (1856) to Joseph R. Biden, eighteen Democratic candidates were elected U.S. president.
 
 The Democrats won five consecutive times beginning in 1932. **Franklin D. Roosevelt** started the streak. He also triumphed in '36, '40 and '44. 
 
-Roosevelt is the only president in history to occupy the presidential spot for over two consecutive terms. However, he did not finish the last of his terms, as he died on April 12, 1945, days before the end of World War II. **Harry S. Truman** took office immediately. Three years and a half later, he defeated **Thomas E. Dewey** and States' Rights candidate **Strom Thurmond** in the election of 1948.
+Roosevelt was the only president in history to occupy the presidential spot for over two consecutive terms. However, he did not finish the last of his terms, as he died on April 12, 1945, days before the end of World War II. **Harry S. Truman** took office immediately. Three years and a half later, he defeated **Thomas E. Dewey** and States' Rights candidate **Strom Thurmond** in the election of 1948.
+
+The following table shows the popular votes of Democrats and Republicans and the winning party in each election. In the United States, the winner is not the candidate with the most votes but **the one with the highest electoral votes**.
 
 <FlatUiTable data={{ url: 'votes_dem_rep.csv' }} />
 ###### *NOTE: The 2016 elections are, along with those of 1824, 1876, 1888 and 2000 the only ones in which the winning candidate lost the popular vote.*
