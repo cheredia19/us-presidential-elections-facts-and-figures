@@ -33,9 +33,9 @@ Biden was 77 when [he was declared the winner of the 2020 election](https://apne
 
 ## Popular votes by party and winners (1856-2020)
 
-The former vice president is the only candidate to surpass the 80 million popular-vote barrier (81,283,501) in a presidential election. It's fair to say that he and Trump (74,223,975) are the only ones to have surpassed 70 million votes, both in the 2020 race.
+The former vice president under Barack Obama is the only candidate to surpass the 80 million popular-vote barrier (81,283,501) in a presidential election. It's fair to say that he and Trump (74,223,975) are the only ones to have surpassed 70 million votes, both in the 2020 race.
 
-Since the first Republican nominating convention in 1856, in which ex-senator **John Charles Frémont** got the nomination, Democrats and Republicans have been pitted against each other every four years, taking center stage in every election.
+**Since the first Republican nominating convention in 1856, in which ex-senator John Charles Frémont got the nomination, Democrats and Republicans have been pitted against each other every four years, taking center stage in every election**.
 
 The following two line charts show the popular vote performances of Democratic and Republican candidates from that year to the last election in 2020.
 
@@ -72,13 +72,21 @@ The following table shows the popular votes of Democrats and Republicans and the
 
 ## Electoral votes by party (1856-2020)
 
-Hillary Clinton (2016), Al Gore (2000), Grover Cleveland (1888), and Samuel Tilden (1876), all Democrats, were all "victims" of the [Electoral College](https://www.archives.gov/electoral-college/about) system. They obtained more ballots than their rivals, but fewer electoral votes.
+Hillary Clinton (2016), Al Gore (2000), Grover Cleveland (1888), and Samuel Tilden (1876), all Democrats, were all *victims* of the [Electoral College](https://www.archives.gov/electoral-college/about) system. They obtained more ballots, but fewer electoral votes. That is why they were not elected president of the United States then.
 
 The case of the 1824 election is unique. Candidate **Andrew Jackson** gathered 41.3% of the popular votes and 99 electors, 32 below the majority required to be elected. 
 
-In second place in both instances was John Quincy Adams with 30.9% of the votes and 84 electors. Henry Clay placed third in popular ballots with 13% and fourth in electors with 37 seats. Lastly, William H. Crawford obtained 11.2% of the votes, but surpassed Clay by 4 electors with 41, placing third in this instance. 
+Second place in both instances was John Quincy Adams with 30.9% of the votes and 84 electors. Henry Clay placed third in popular ballots with 13% and fourth in electors with 37 seats. Lastly, William H. Crawford obtained 11.2% of the votes, but surpassed Clay by four electors with 41, placing third in this instance. 
 
-To date, it has been **the only occasion in which none of the presidential candidates obtained a majority of the electoral vote**.
+It has been **the only occasion where no presidential candidates obtained a majority of the electoral vote**.
+
+Faced with a fragmented Electoral College, the election had to be carried to the House of Representatives. Each state cast only one vote, resulting in the elimination of Clay from the contingent election by placing fourth. Clay supported Adams, with whom he shared views on many major issues. Thus, Adams won the vote of 13 states against seven for Jackson and four for Crawford, gaining the presidency.
+
+The four subsequent instances where the popular vote winner had not achieved a majority in the Electoral College were:
+
+- 1876: Democrat candidate Samuel Tilden achieved 51% of the popular vote but **one less electoral vote** than Rutherford Hayes, who won the presidency.
+- 1888: Grover Cleveland was prevented from a second term in a row because Republican Benjamin Harrison outscored Cleveland by 35 electoral votes.
+- 2000: 
 
 <FlatUiTable data={{ url: 'ev_dem_rep.csv' }} />
 
