@@ -70,24 +70,6 @@ The following table shows the popular votes of Democrats and Republicans and the
 <FlatUiTable data={{ url: 'votes_dem_rep.csv' }} />
 ###### *NOTE: The 2016 elections are, along with those of 1824, 1876, 1888 and 2000 the only ones in which the winning candidate lost the popular vote.*
 
-<PlotlyLineChart
-  data={{
-    url: 'votes_dem_rep.csv'
-  }}
-  title="Evolution of the Democratic Party's popular votes since 1856"
-  xAxis="year"
-  yAxis="democratic"
-/>
-
-<PlotlyLineChart
-  data={{
-    url: 'votes_dem_rep.csv'
-  }}
-  title="Evolution of the Republican Party's popular votes since 1856"
-  xAxis="year"
-  yAxis="republican"
-/>
-
 ## Electoral votes by party (1856-2020)
 
 Hillary Clinton (2016), Al Gore (2000), Grover Cleveland (1888), and Samuel Tilden (1876), all Democrats, were all "victims" of the [Electoral College](https://www.archives.gov/electoral-college/about) system. They obtained more ballots than their rivals, but fewer electoral votes.
