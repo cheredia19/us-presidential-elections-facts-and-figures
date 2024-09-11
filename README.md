@@ -90,6 +90,14 @@ The following table shows the popular votes of Democrats and Republicans and the
 
 ## Electoral votes by party (1856-2020)
 
+Hillary Clinton (2016), Al Gore (2000), Grover Cleveland (1888), and Samuel Tilden (1876), all Democrats, were all "victims" of the [Electoral College](https://www.archives.gov/electoral-college/about) system. They obtained more ballots than their rivals, but fewer electoral votes.
+
+The case of the 1824 election is unique. Candidate **Andrew Jackson** gathered 41.3% of the popular votes and 99 electors, 32 below the majority required to be elected. 
+
+In second place in both instances was John Quincy Adams with 30.9% of the votes and 84 electors. Henry Clay placed third in popular ballots with 13% and fourth in electors with 37 seats. Lastly, William H. Crawford obtained 11.2% of the votes, but surpassed Clay by 4 electors with 41, placing third in this instance. 
+
+To date, it has been **the only occasion in which none of the presidential candidates obtained a majority of the electoral vote**.
+
 <FlatUiTable data={{ url: 'ev_dem_rep.csv' }} />
 
 <PlotlyLineChart
