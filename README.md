@@ -91,7 +91,7 @@ The four subsequent instances where the popular vote winner had not achieved a m
 
 In 1936, Democrat **Franklin D. Roosevelt** was elected president with 523 electoral votes out of 531. The Democratic party achieved over 400 electoral votes five times (1912, 1932, 1940, 1944, 1964).
 
-**Ronald Reagan** (1984) and **Richard Nixon** (1972) won the presidency with over 500 electoral votes (525 and 520, respectively). In 1920, 1928, 1952, 1956, 1980, and 91988, the Republican candidate obtained more than 400 EVs.
+**Ronald Reagan** (1984) and **Richard Nixon** (1972) won the presidency with over 500 electoral votes (525 and 520, respectively). In 1920, 1928, 1952, 1956, 1980, and 1988, the Republican candidate obtained more than 400 EVs.
 
 The table below shows the number of electoral votes obtained by Republicans and Democrats from the first time they participated in the same election until now.
 
