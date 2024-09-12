@@ -86,7 +86,10 @@ The four subsequent instances where the popular vote winner had not achieved a m
 
 - 1876: Democrat candidate Samuel Tilden achieved 51% of the popular vote but **one less electoral vote** than Rutherford Hayes, who won the presidency.
 - 1888: Grover Cleveland was prevented from a second term in a row because Republican Benjamin Harrison outscored Cleveland by 35 electoral votes.
-- 2000: 
+- 2000: Al Gore got over 540K votes than George W. Bush, but the Republican candidate got five more electoral votes in one of the tightest presidential elections ever.
+- 2016: Even though Hillary Clinton obtained almost three million more suffrages than Donald Trump, the latter won the presidency by surpassing the 300 electoral vote mark.
+
+The table below shows the number of electoral votes obtained by Republicans and Democrats from the first time they participated in the same election until now.
 
 <FlatUiTable data={{ url: 'ev_dem_rep.csv' }} />
 
