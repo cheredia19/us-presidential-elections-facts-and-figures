@@ -97,6 +97,8 @@ The table below shows the number of electoral votes obtained by Republicans and 
 
 <FlatUiTable data={{ url: 'ev_dem_rep.csv' }} />
 
+The evolution of electoral votes collected by Democratic and Republican candidates election over election can be seen in the two graphs below.
+
 <PlotlyLineChart
   data={{
     url: 'ev_dem_rep.csv'
@@ -114,3 +116,5 @@ The table below shows the number of electoral votes obtained by Republicans and 
   xAxis="year"
   yAxis="republican"
 />
+
+How many popular and electoral votes will Kamala Harris and Donald Trump get in the next presidential election? Let's see what the data on November 5th and the following days will say.
