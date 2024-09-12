@@ -91,6 +91,10 @@ The four subsequent instances where the popular vote winner had not achieved a m
 
 The table below shows the number of electoral votes obtained by Republicans and Democrats from the first time they participated in the same election until now.
 
+In 1936, Democrat Franklin D. Roosevelt was elected president with 523 electoral votes out of 531. The Democratic party achieved over 400 electoral votes five times (1912, 1932, 1940, 1944, 1964).
+
+
+
 <FlatUiTable data={{ url: 'ev_dem_rep.csv' }} />
 
 <PlotlyLineChart
