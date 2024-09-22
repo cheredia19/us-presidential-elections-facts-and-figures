@@ -118,3 +118,9 @@ The evolution of electoral votes collected by Democratic and Republican candidat
 />
 
 How many popular and electoral votes will **Kamala Harris** and **Donald Trump** get in the next presidential election? Let's see what the data on November 5th and the following days will say.
+
+##### You may be interested in
+
+- [Each U.S. presidential election (1800-1896)](https://datahub.io/@cheredia19/us-presidential-elections-1800s)
+- [Each U.S. presidential election (1900-1996)](https://datahub.io/@cheredia19/us-presidential-elections-1900s)
+- [Each U.S. presidential election (2000-2020)](https://datahub.io/@cheredia19/us-presidential-elections-2000s)
